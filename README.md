@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @inventzit
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+inventzit
+Statistical, DeFi and CeFi Arbitrage
+Machine Learning
+Backtesting
+skype
+--->
